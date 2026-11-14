@@ -1,7 +1,7 @@
 # Tarea #6: Árboles y Grafos
 
 Programación III, UTEC 2026-2
-Alumno: ______________________ Código: __________
+Alumno: Adrian Gabriel Rojas Tejada Código: 202510038
 
 ## Contenido
 
